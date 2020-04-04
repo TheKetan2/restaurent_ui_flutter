@@ -110,7 +110,6 @@ class RecentOrders extends StatelessWidget {
         ),
         Container(
           height: 120.0,
-          // color: Colors.red,
           margin: EdgeInsets.only(
             left: 10,
           ),
