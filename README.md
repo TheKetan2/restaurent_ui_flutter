@@ -4,5 +4,5 @@ Flutter UI app for restaurant app.
 
 
 
-### Screencast
-[Snapshot](assets/images/screen.gif)
+# Screencast
+![alt text](assets/images/screen.gif)
